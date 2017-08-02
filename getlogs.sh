@@ -2,7 +2,7 @@
 #
 # Author: Mohd Farhan Bin Taib
 # Creation date: 2nd Aug 2017
-# About: Wrapper script to get CloudWath log events.
+# About: Wrapper script to get CloudWatch log events.
 #
 # Compatibility: CentOS and MacOS
 
